@@ -1,0 +1,90 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+* {
+    font-family: montserrat, sans-serif;
+}
+
+
+#section {
+    display: flex;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+.side-by-side-1{
+    width: 40%;
+    margin-top: 4%;
+}
+
+.side-by-side {
+    width: 60%;
+    margin-top: 3%;
+}
+
+.right-container {
+    display: flex;
+
+}
+
+.container-1 {
+    width: 60px;
+}
+
+.cards {
+    margin-right: 17px;
+
+}
+
+.cards-img:hover{
+   border: 2px solid #009688;
+   border-radius: 6px;
+    padding: 3px;
+}
+
+.cards-img {
+    width: 100px;
+    border-radius: 2px;
+   
+}
+
+
+.heading1 {
+    margin-top: 0px;
+    font-weight: 300;
+    font-size: 44px;
+}
+
+
+.heading2 {
+    margin-top: 20px;
+    font-weight: 200;
+    font-size: 20px;
+    letter-spacing: 1px;
+    word-spacing: 1px;
+    color: rgb(27, 25, 25);
+}
+
+.price {
+    color: #009688;
+    font-weight: bold;  
+    margin-left: 8px;
+
+}
+
+.p-tag {
+    margin-top: 20px;
+    font-size: 16px;
+    font-weight: 300;
+    word-spacing: 1px;
+    color: #86939e;
+}
+
+
+
+.left-container {
+    width: 90%;
+
+}
+
+
+.tempoimg {
+    width: 100%;
+}
